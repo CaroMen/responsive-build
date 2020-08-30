@@ -41,11 +41,7 @@ export default {
 <style>
 body {
   background-color: #f4f4f5;
-  color: #c6a277;
-}
-
-.text {
-  color: #c6a277;
+  /* color: #c6a277; */
 }
 
 .navbar nav {
